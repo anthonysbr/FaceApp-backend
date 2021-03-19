@@ -1,0 +1,11 @@
+tensorflow-gpu==2.1.0
+numpy
+opencv-python
+PyYAML
+tqdm
+Pillow
+Cython
+ipython
+flask_ngrok
+gevent
+cloudinary
